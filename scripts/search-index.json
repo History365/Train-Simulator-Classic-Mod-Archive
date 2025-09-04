@@ -1,0 +1,344 @@
+[
+  {
+    "title": "Adriana County Bundle",
+    "description": "Multiple repaints of EMD's GP40-2 and the PS 4750 Hopper into Adriana County liveries.",
+    "image": "../media/6.jpg",
+    "url": "../trurail-simulations/adriana-county-bundle.html",
+    "released": "May 17, 2024"
+  },
+  {
+    "title": "CSX Road Bundle",
+    "description": "The download contains 5 CSX locomotives and 6 CSX freight cars.",
+    "image": "../media/7.jpg",
+    "url": "../trurail-simulations/csx-road-bundle.html",
+    "released": "April 15, 2024"
+  },
+  {
+    "title": "UP Commemorative Pack",
+    "description": "Union Pacific 1111 and 4141 for Train Simulator 2021.",
+    "image": "../media/27.jpg",
+    "url": "../trurail-simulations/up-commemorative-pack.html",
+    "released": "August 1, 2023"
+  },
+
+  {
+    "title": "Amtrak GE P42DC EP",
+    "description": "An enhancement of General Electric's P42DC locomotive ordered by Amtrak and VIA Rail. Depicted is the \"Phase V\" Amtrak scheme.",
+    "image": "../media/25.jpg",
+    "url": "../trurail-simulations/amtrak-p42dc-ep.html",
+    "released": "September 1, 2023"
+  },
+  {
+    "title": "Berkshire Texture EP",
+    "description": "A texture enhancement for the Bershire Steam Engine",
+    "image": "../media/16.jpg",
+    "url": "../trurail-simulations/berkshire-texture-ep.html",
+    "released": "January 15, 2024"
+  },
+  {
+    "title": "BNSF Dash 9-44CW H1",
+    "description": "A visual and audible overhaul of the C44-9W DLC, focusing on the H1 scheme",
+    "image": "../media/10.jpg",
+    "url": "../trurail-simulations/bnsf-dash9-h1.html",
+    "released": "February 15, 2024"
+  },
+  {
+    "title": "BNSF Dash 9-44CW H2",
+    "description": "A visual and audible overhaul of the C44-9W DLC, focusing on the H2 scheme",
+    "image": "../media/11.jpg",
+    "url": "../trurail-simulations/bnsf-dash9-h2.html",
+    "released": "February 1, 2024"
+  },
+  {
+    "title": "GE C44-9W Texture Upgrade",
+    "description": "Color-corrected repaints to depict General Electric's Dash 9 ordered by BNSF, NS, CN, and CSX.",
+    "image": "../media/44.jpg",
+    "url": "../trurail-simulations/ge-c44-9w-texture-upgrade.html",
+    "released": "November 15, 2022"
+  },
+
+  {
+    "title": "Union Pacific FEF-3 Whistle",
+    "description": "A simple whistle that represents the one heard prior to the removal of UP 844's mars light.",
+    "image": "../media/50.jpg",
+    "url": "../trurail-simulations/up-fef3-whistle.html",
+    "released": "August 15, 2022"
+  },
+
+  {
+    "title": "Arizona Divide Logo Patch",
+    "description": "A patch for Arizona Divide. It shipped with no logos. This patch is for worldwide and US customers.",
+    "image": "../media/53.jpg",
+    "url": "../trurail-simulations/arizona-divide-logo-patch.html",
+    "released": "July 1, 2022"
+  },
+  {
+    "title": "SD80MAC Sound Patch",
+    "description": "A simple patch to prevent the CSX SD80MAC from crashing when put into N8.",
+    "image": "../media/51.jpg",
+    "url": "../trurail-simulations/sd80mac-sound-patch.html",
+    "released": "August 1, 2022"
+  },
+  {
+    "title": "Superliner Physics Patch",
+    "description": "A simple patch to adjust the drag of the superliner cars.",
+    "image": "../media/52.jpg",
+    "url": "../trurail-simulations/superliner-physics-patch.html",
+    "released": "July 15, 2022"
+  },
+
+  {
+    "title": "ATSF U36C",
+    "description": "A repaint of GE's U36C in Santa Fe's 'Bluebonnet' scheme.",
+    "image": "../media/18.jpg",
+    "url": "../trurail-simulations/atsf-u36c.html",
+    "released": "December 15, 2023"
+  },
+  {
+    "title": "B&O GP40-2 (Chessie System)",
+    "description": "A repaint of EMD's GP40-2 into Baltimore & Ohio (Chessie System).",
+    "image": "../media/28.jpg",
+    "url": "../trurail-simulations/bo-gp40-2.html",
+    "released": "July 15, 2023"
+  },
+  {
+    "title": "BNSF 25th Anniversary ES44AC",
+    "description": "A repaint of GE's ES44AC into BNSF's 25th Anniversary scheme.",
+    "image": "../media/22.jpg",
+    "url": "../trurail-simulations/bnsf-25th-es44ac.html",
+    "released": "October 15, 2023"
+  },
+  {
+    "title": "BNSF SD70ACe",
+    "description": "New version of EMD's SD70ACe in BNSF 'Heritage 3' Livery.",
+    "image": "../media/15.jpg",
+    "url": "../trurail-simulations/bnsf-sd70ace.html",
+    "released": "February 1, 2024"
+  },
+  {
+    "title": "Burlington Northern SD70MAC",
+    "description": "A repaint of EMD's SD70MAC into multiple BN/BNSF variants.",
+    "image": "../media/29.jpg",
+    "url": "../trurail-simulations/bn-sd70mac.html",
+    "released": "July 1, 2023"
+  },
+  {
+    "title": "C&NW EMD E8",
+    "description": "A repaint of the EMD E8 in the classic Chicago & Northwestern scheme.",
+    "image": "../media/20.jpg",
+    "url": "../trurail-simulations/cnw-e8.html",
+    "released": "November 15, 2023"
+  },
+  {
+    "title": "Conrail U36B",
+    "description": "A repaint of GE's U36B into Conrail blue.",
+    "image": "../media/30.jpg",
+    "url": "../trurail-simulations/cr-u36b.html",
+    "released": "June 15, 2023"
+  },
+  {
+    "title": "CSX SD40-2 Pack",
+    "description": "EMD's proven workhorse in multiple beautiful CSX Paints",
+    "image": "../media/9.jpg",
+    "url": "../trurail-simulations/csx-sd40-2-pack.html",
+    "released": "March 1, 2024"
+  },
+  {
+    "title": "Ex-Conrail C40-8 Pack",
+    "description": "Four repaints of GE's C40-8 locomotive ordered by Conrail to depict units acquired by CSX.",
+    "image": "../media/46.jpg",
+    "url": "../trurail-simulations/ex-conrail-c40-8-pack.html",
+    "released": "October 15, 2022"
+  },
+  {
+    "title": "Ex-Seaboard System GP38-2",
+    "description": "A repaint of an EMD GP38-2 to depict a patched Seaboard System GP38-2.",
+    "image": "../media/43.jpg",
+    "url": "../trurail-simulations/ex-sbd-gp38-2.html",
+    "released": "December 1, 2022"
+  },
+  {
+    "title": "LS&I C36-7",
+    "description": "Four repaints of GE's C36-7 locomotive ordered by Burlington Northern to depict the LS&I livery after being bought.",
+    "image": "../media/48.jpg",
+    "url": "../trurail-simulations/lsi-c36-7.html",
+    "released": "September 15, 2022"
+  },
+  {
+    "title": "Metra F59PHI",
+    "description": "A repaint of EMD's F59PHI into Metra's Ex-Amtrak Surfliner paint scheme.",
+    "image": "../media/21.jpg",
+    "url": "../trurail-simulations/metra-f59phi-pack.html",
+    "released": "November 1, 2023"
+  },
+  {
+    "title": "Milwaukee Road U36C",
+    "description": "A repaint of GE's U36C into Milwaukee Road paint scheme.",
+    "image": "../media/23.jpg",
+    "url": "../trurail-simulations/milw-u36c.html",
+    "released": "October 1, 2023"
+  },
+  {
+    "title": "Missouri Pacific GP38-2",
+    "description": "A variant of Missouri Pacific's GP38-2 with no dynamic brake fan",
+    "image": "../media/14.jpg",
+    "url": "../trurail-simulations/mp-gp38-2.html",
+    "released": "February 15, 2024"
+  },
+  {
+    "title": "NJT Heritage Pack",
+    "description": "Three repaints of NJT's ALP-45DP, ALP-46, and GP40PH-2B",
+    "image": "../media/12.jpg",
+    "url": "../trurail-simulations/njt-heritage-pack.html",
+    "released": "March 15, 2024"
+  },
+  {
+    "title": "Operation Lifesaver F59PHI Pack",
+    "description": "Four repaints of EMD's F59PHI locomotive ordered by Amtrak to depict the 'OLS' units.",
+    "image": "../media/47.jpg",
+    "url": "../trurail-simulations/ols-f59phi-pack.html",
+    "released": "October 1, 2022"
+  },
+  {
+    "title": "Restored UP 3985",
+    "description": "Includes one reskin of the Union Pacific Challenger-class 4-6-6-4 articulated steam locomotive, depicting Union Pacific 3985 when it was first restored.",
+    "image": "../media/42.jpg",
+    "url": "../trurail-simulations/restored-up-3985.html",
+    "released": "December 15, 2022"
+  },
+  {
+    "title": "Sacramento Northern GP9",
+    "description": "A repaint of EMD's GP9 in Sacramento Northern green & orange livery.",
+    "image": "../media/45.jpg",
+    "url": "../trurail-simulations/sn-gp9.html",
+    "released": "November 1, 2022"
+  },
+  {
+    "title": "Southern Pacific DD35",
+    "description": "Three repaints of EMD's DD35 locomotive into Southern Pacific's 'bloody nose' scheme.",
+    "image": "../media/49.jpg",
+    "url": "../trurail-simulations/sp-dd35.html",
+    "released": "September 1, 2022"
+  },
+  {
+    "title": "Southern Pacific GP9",
+    "description": "A repaint of EMD's GP9 into Southern Pacific's 'Bloody Nose' paint scheme.",
+    "image": "../media/24.jpg",
+    "url": "../trurail-simulations/sp-gp9.html",
+    "released": "September 15, 2023"
+  },
+  {
+    "title": "Striped Plow AC4400CW",
+    "description": "A repaint of GE's AC4400CW into the CP 'Striped Plow' scheme.",
+    "image": "../media/17.jpg",
+    "url": "../trurail-simulations/cp-stripedplow-ac4400cw.html",
+    "released": "January 1, 2024"
+  },
+  {
+    "title": "Union Pacific Non-Dyno GP38-2",
+    "description": "A variant of Union Pacific's GP38-2 with no dynamic brake fan",
+    "image": "../media/13.jpg",
+    "url": "../trurail-simulations/up-nondyno-gp38-2.html",
+    "released": "March 1, 2024"
+  },
+  {
+    "title": "United Way SD40-2",
+    "description": "Union Pacific #3300 Painted in a patriotic livery for the 1994 United Way Campaign.",
+    "image": "../media/8.jpg",
+    "url": "../trurail-simulations/united-way-sd40-2.html",
+    "released": "March 20, 2024"
+  },
+  {
+    "title": "Western Pacific GP40-2",
+    "description": "A repaint of EMD's GP40-2 into Western Pacific 3532.",
+    "image": "../media/26.jpg",
+    "url": "../trurail-simulations/wp-gp40-2.html",
+    "released": "August 15, 2023"
+  },
+  {
+    "title": "YorkRail GP9",
+    "description": "A repaint of EMD's GP9 in YorkRail scheme.",
+    "image": "../media/19.jpg",
+    "url": "../trurail-simulations/yorkrail-gp9.html",
+    "released": "December 1, 2023"
+  },
+
+  {
+    "title": "Autoflood III Downloads",
+    "description": "This download contains 11 variants of the Autoflood Hopper",
+    "image": "../media/34.jpg",
+    "url": "../trurail-simulations/autoflood-iii.html",
+    "released": "April 15, 2023"
+  },
+  {
+    "title": "Bethgon Collection",
+    "description": "Three skins of the Kuju Bethgon coalporter in CMO, NDYX, and WPSX schemes.",
+    "image": "../media/31.jpg",
+    "url": "../trurail-simulations/bethgon-collection.html",
+    "released": "June 1, 2023"
+  },
+
+  {
+    "title": "BN Fuel Tender",
+    "description": "A reskin of the JR 23K tank car into the Burlington Northern's fuel tenders.",
+    "image": "../media/41.jpg",
+    "url": "../trurail-simulations/bn-fuel-tender.html",
+    "released": "January 1, 2023"
+  },
+  {
+    "title": "BNSF Trinity Hoppers",
+    "description": "Two skins of Eyein12's 5800 cu ft Trinity hopper.",
+    "image": "../media/33.jpg",
+    "url": "../trurail-simulations/bnsf-trinity-hoppers.html",
+    "released": "May 1, 2023"
+  },
+  {
+    "title": "C&IM 100T Hopper Pack",
+    "description": "A pack of 100 Ton Coal Hoppers in Chicago & Illinois Midland liveries.",
+    "image": "../media/35.jpg",
+    "url": "../trurail-simulations/cim-100t-hopper-pack.html",
+    "released": "April 1, 2023"
+  },
+  {
+    "title": "CSX Trinity Hoppers",
+    "description": "A repaint of the Eyein12 Trinity Hopper into two CSX paint schemes.",
+    "image": "../media/32.jpg",
+    "url": "../trurail-simulations/csx-trinity-hoppers.html",
+    "released": "May 15, 2023"
+  },
+  {
+    "title": "Klemme Coop Hoppers",
+    "description": "The Pullman Standard 4750 Grain Hopper is used all across the country to help feed the nation's agriculture industry.",
+    "image": "../media/38.jpg",
+    "url": "../trurail-simulations/klemme-coop-hoppers.html",
+    "released": "February 15, 2023"
+  },
+  {
+    "title": "PS 4750 Hopper Pack 1",
+    "description": "The Pullman Standard 4750 Grain Hopper is used all across the country to help feed the nation's agriculture industry.",
+    "image": "../media/36.jpg",
+    "url": "../trurail-simulations/ps-4750-hopper-pack-1.html",
+    "released": "March 15, 2023"
+  },
+  {
+    "title": "PS 4750 Hopper Pack 2",
+    "description": "The Pullman Standard 4750 Grain Hopper is used all across the country to help feed the nation's agriculture industry.",
+    "image": "../media/37.jpg",
+    "url": "../trurail-simulations/ps-4750-hopper-pack-2.html",
+    "released": "March 1, 2023"
+  },
+  {
+    "title": "UP 100T Hopper Pack",
+    "description": "A pack of 100 Ton Coal Hoppers in Union Pacific liveries.",
+    "image": "../media/39.jpg",
+    "url": "../trurail-simulations/up-100t-hopper-pack.html",
+    "released": "February 1, 2023"
+  },
+  {
+    "title": "WP Caboose Pack",
+    "description": "A pack of Bay Window Cabooses in Western Pacific liveries.",
+    "image": "../media/40.jpg",
+    "url": "../trurail-simulations/wp-caboose-pack.html",
+    "released": "January 15, 2023"
+  }
+]
